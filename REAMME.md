@@ -4,6 +4,9 @@ Name
 Overview
 
 ## Description
+#1. To take a micro-scope image of a catalyst coated rotating electrode.(電極を画像の中心に置く。電極の全体が写るようにする)
+#2. To do a RDE experiment and calculate the kouteckey-levich slope from the liner sweep voltammogram with various rotating speed.
+#3. To save both the micro-scope image in the foleder(Name) and the slope value in csv file(Name) acordingly.
 
 ## Demo
 
