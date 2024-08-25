@@ -1,16 +1,17 @@
 Name
 ====
 
-Overview
+## Overview
+The tool predicts the quality of experiments from electrode images in rotating disk electrode methods. It contributes to the future automation of electrochemical experiments.
 
 ## Description
-#1. To take a micro-scope image of a catalyst coated rotating electrode.(電極を画像の中心に置く。電極の全体が写るようにする)
-#2. To do a RDE experiment and calculate the kouteckey-levich slope from the liner sweep voltammogram with various rotating speed.
-#3. To save both the micro-scope image in the foleder(Name) and the slope value in csv file(Name) acordingly.
+Rotating disk electrode (RDE) technique is the essential tool to study the activity, stability, and other fundamental properties of electrocatalysts. High-quality RDE experimentation demands to evenly coat the catalyst layer on the electrode surface, which strongly relies on experience and lacks necessary quality control currently. The inadequate evaluation to ensure the quality of RDE experimentation aside from conventional expertise-relied judgment reduces the efficiency, challenges data interpretation, and hinders future automation of RDE experimentation. Here we propose a simple, easy-to-execute and non-destructive method through a combined microscopy photographing and artificial intelligence based decision-making process to assess the quality of as-prepared electrode. We develop a convolutional neural network-based method that uses the microscopic photos of as-prepared electrodes to directly evaluate the sample quality. In the study of electrodes for oxygen reduction reaction, the model achieved an accuracy of over 80% in predicting sample qualities. Our method enables the removal of low-quality samples prior to the actual RDE test, thereby ensuring high-quality electrochemical experimentation and offering the path towards high-quality automated electrochemical experimentation. This approach is applicable to various electrochemical systems and highlights the great applicability of artificial intelligence in automated experimentation.
 
 ## Demo
-
-## VS. 
+#1. To take a micro-scope image of a catalyst coated rotating electrode.(電極を画像の中心に置く。電極の全体が写るようにする)
+#2. To do a RDE experiment and calculate the kouteckey-levich slope from the liner sweep voltammogram with various rotating speed.
+#3. To save both the micro-scope image in the foleder(Image) and the slope value in csv file(ORR.csv) acordingly.
+#4. To run the code.
 
 ## Requirement
 
