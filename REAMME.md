@@ -24,4 +24,4 @@ Matplotlib version: 3.7.5
 SciPy version: 1.10.1
 
 ## Publication
-Table 1 presents the evaluation results of 10 models. Each model was split using a different random state, with the random states being 1, 11, 111, 1111, 11111, 2, 22, 222, 2222, and 22222, as used in the literature.
+Table 1 presents the evaluation results of 10 models. Each model was split using a different random state.
