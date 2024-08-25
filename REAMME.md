@@ -1,5 +1,5 @@
 ## RDE automation
-
+![Image.tif](Image.tif)
 ## Overview
 The tool predicts the quality of experiments from electrode images in rotating disk electrode methods. It contributes to the future automation of electrochemical experiments.
 
