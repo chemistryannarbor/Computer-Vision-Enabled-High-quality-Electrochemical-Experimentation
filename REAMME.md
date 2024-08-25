@@ -1,5 +1,6 @@
 ## RDE automation
-![RDE automation.jpg](RDE automation.jpg)
+![RDE automation.jpg](Computer-Vision-Enabled-High-quality-Electrochemical-Experimentation
+/RDE automation.jpg)
 ## Overview
 The tool predicts the quality of experiments from electrode images in rotating disk electrode methods. It contributes to the future automation of electrochemical experiments.
 
