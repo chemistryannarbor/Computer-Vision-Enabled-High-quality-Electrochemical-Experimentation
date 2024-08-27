@@ -22,6 +22,10 @@ scikit-learn version: 1.3.2
 Pillow (PIL) version: 10.4.0
 Matplotlib version: 3.7.5
 SciPy version: 1.10.1
+OpenCV version: 4.10.0
+Pandas version: 2.0.3
+Joblib version: 1.4.2
+Seaborn version: 0.13.2
 
 ## Publication
 Table 1 presents the evaluation results of 10 models. Each model was split using a different random state.
