@@ -12,7 +12,7 @@ Rotating disk electrode (RDE) technique is the essential tool to study the activ
 #3. To save both the micro-scope image in the foleder(Image) and the slope value in csv file(ORR.csv) acordingly.
 #4. To run the code(240827_Main.ipynb).
 
-## Install
+## Requirement, Installation
 Python version: 3.8.5 
 OpenCV version: 4.10.0
 TensorFlow version: 2.13.0
