@@ -10,7 +10,7 @@ Rotating disk electrode (RDE) technique is the essential tool to study the activ
 #1. To take a micro-scope image of a catalyst coated rotating electrode.(Please position the electrode at the center of the image and capture it from directly above, ensuring that the entire electrode is visible. Be careful to avoid overexposure caused by light reflections.)
 #2. To do a RDE experiment and calculate the kouteckey-levich slope from the liner sweep voltammogram with various rotating speeds.
 #3. To save both the micro-scope image in the foleder(Image) and the slope value in csv file(ORR.csv) acordingly.
-#4. To run the code.
+#4. To run the code(240827_Main.ipynb).
 
 ## Install
 Python version: 3.8.5 
